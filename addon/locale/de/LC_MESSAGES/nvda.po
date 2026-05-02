@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 'addonPackager' '1.0.3'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
 "POT-Creation-Date: 2024-03-24 18:57+0000\n"
-"PO-Revision-Date: 2024-05-16 08:30+0200\n"
+"PO-Revision-Date: 2026-05-01 17:22+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. Translators: Message asking user to remove an old add-on.
@@ -33,11 +33,11 @@ msgstr ""
 #. Translators: Label of a message asking user to remove an old add-on.
 #: addon\installTasks.py:21
 msgid "Warning!"
-msgstr "Warnung!"
+msgstr "Achtung!"
 
 #: addon\globalPlugins\addonsTools\__init__.py:42
 msgid "&Add-ons tools"
-msgstr "&Tools zur Verwaltung von Add-ons"
+msgstr "&Add-ons-Tools"
 
 #: addon\globalPlugins\addonsTools\__init__.py:59
 msgid "An action is pending a NVDA restart."
@@ -65,7 +65,7 @@ msgstr "Zeigt das Hauptfenster der Add-ons-Tools"
 #: addon\globalPlugins\addonsTools\__init__.py:95
 #: addon\globalPlugins\addonsTools\main.py:32
 msgid "Add-ons tools"
-msgstr "Tools zur Verwaltung von Add-ons"
+msgstr "Add-ons-Tools"
 
 #: addon\globalPlugins\addonsTools\__init__.py:85
 #: addon\globalPlugins\addonsTools\__init__.py:87
@@ -75,7 +75,7 @@ msgstr "Es ist bereits eine Instanz von Add-ons Tools geöffnet."
 #: addon\globalPlugins\addonsTools\__init__.py:85
 #: addon\globalPlugins\addonsTools\main.py:286
 msgid "Information"
-msgstr "Information"
+msgstr "Informationen"
 
 #: addon\globalPlugins\addonsTools\__init__.py:94
 msgid "Close NVDA when it gets blocked"
@@ -90,13 +90,13 @@ msgstr ""
 
 #: addon\globalPlugins\addonsTools\main.py:54
 msgid "Add-ons packager"
-msgstr "Add-ons Packen"
+msgstr "Add-ons packager"
 
 #: addon\globalPlugins\addonsTools\main.py:58
 #: addon\globalPlugins\addonsTools\main.py:81
 #: addon\globalPlugins\addonsTools\main.py:121
 msgid "&Add-ons list:"
-msgstr "&Liste der Add-ons:"
+msgstr "Liste der &Add-ons:"
 
 #: addon\globalPlugins\addonsTools\main.py:67
 #: addon\globalPlugins\addonsTools\main.py:90
@@ -109,7 +109,7 @@ msgstr "&Erzeugen"
 
 #: addon\globalPlugins\addonsTools\main.py:74
 msgid "Multiple installer"
-msgstr "Multi-Installer"
+msgstr "Mehrfach-Installer"
 
 #: addon\globalPlugins\addonsTools\main.py:78
 msgid "&Select a folder with add-ons to install..."
@@ -137,11 +137,11 @@ msgstr "&Backup wiederherstellen"
 
 #: addon\globalPlugins\addonsTools\main.py:117
 msgid "Add-ons documentation"
-msgstr "Erweiterungsdokumentation"
+msgstr "Dokumentation zu den Add-ons"
 
 #: addon\globalPlugins\addonsTools\main.py:127
 msgid "&Open add-on documentation"
-msgstr "&Öffne Add-on-Dokumentation"
+msgstr "&öffne Add-on-Dokumentation"
 
 #: addon\globalPlugins\addonsTools\main.py:133
 msgid "&Status:"
@@ -204,7 +204,7 @@ msgstr "NVDA-Konfigurationsdatei"
 #: addon\globalPlugins\addonsTools\main.py:256
 #: addon\globalPlugins\addonsTools\main.py:301
 msgid "&Select all"
-msgstr "&Alles auswählen"
+msgstr "&Alle auswählen"
 
 #: addon\globalPlugins\addonsTools\main.py:257
 #: addon\globalPlugins\addonsTools\main.py:302
@@ -272,7 +272,7 @@ msgstr "NVDA-Sicherung wiederherstellen"
 
 #: addon\globalPlugins\addonsTools\main.py:560
 msgid "Backup &content:"
-msgstr "Sicherung &Inhalt:"
+msgstr "&Inhalt sichern:"
 
 #: addon\globalPlugins\addonsTools\main.py:569
 msgid "&Restore"
@@ -297,7 +297,7 @@ msgstr "Alle Add-ons wurden korrekt generiert."
 #: addon\globalPlugins\addonsTools\utilities.py:426
 #: addon\globalPlugins\addonsTools\utilities.py:432
 msgid "Press 'Accept' to continue."
-msgstr "Drücken Sie auf \"OK\", um fortzufahren."
+msgstr "Drücken Sie auf \"Okay\", um fortzufahren."
 
 #: addon\globalPlugins\addonsTools\utilities.py:174
 #: addon\globalPlugins\addonsTools\utilities.py:249
@@ -318,7 +318,7 @@ msgstr "Bitte versuchen Sie es erneut."
 
 #: addon\globalPlugins\addonsTools\utilities.py:196
 msgid "Installing the add-on: {}"
-msgstr "Installieren des Add-ons: {}"
+msgstr "Installieren Sie das Add-on: {}"
 
 #: addon\globalPlugins\addonsTools\utilities.py:219
 msgid "Instalation correctly completed."
@@ -340,7 +340,7 @@ msgstr "NVDA muss neu gestartet werden, damit die Änderungen verfügbar sind."
 #: addon\globalPlugins\addonsTools\utilities.py:569
 #: addon\globalPlugins\addonsTools\utilities.py:584
 msgid "Press 'Accept' to restart."
-msgstr "Drücken Sie auf \"OK\", um neu zu starten."
+msgstr "Drücken Sie auf \"Okay\", um neu zu starten."
 
 #: addon\globalPlugins\addonsTools\utilities.py:228
 msgid "Was not possible to install the add-on."
@@ -405,7 +405,7 @@ msgid ""
 "* Add-ons not compatible with current API: {}.'\n"
 "'{}"
 msgstr ""
-"* Add-ons nicht kompatibel mit der aktuellen API: {}.'\n"
+"* Add-ons nicht kompatibel mit aktueller API: {}.'\n"
 "'{}"
 
 #. Dictionary
@@ -524,12 +524,12 @@ msgstr "Ordner Profile wiederherstellen..."
 #: addon\globalPlugins\addonsTools\utilities.py:475
 #: addon\globalPlugins\addonsTools\utilities.py:477
 msgid "Was not possible to restore the profiles folder."
-msgstr "Es war nicht möglich, den Ordner \"Profile\" wiederherzustellen."
+msgstr "Es war nicht möglich, den Profilordner wiederherzustellen."
 
 #. Scratchpad
 #: addon\globalPlugins\addonsTools\utilities.py:479
 msgid "Restoring Scratchpad folder..."
-msgstr "Scratchpad-Verzeichnis wiederherstellen..."
+msgstr "Wiederherstellung des Scratchpad-Ordners..."
 
 #: addon\globalPlugins\addonsTools\utilities.py:488
 #: addon\globalPlugins\addonsTools\utilities.py:490
@@ -592,7 +592,7 @@ msgstr "Es war nicht möglich, NVDA wiederherzustellen"
 #: addon\globalPlugins\addonsTools\utilities.py:575
 #: addon\globalPlugins\addonsTools\utilities.py:590
 msgid "Press 'Accept' or 'Close' to continue."
-msgstr "Drücken Sie auf \"OK\" oder \"Schließen\", um fortzufahren."
+msgstr "Drücken Sie auf \"Okay\" oder \"Schließen\", um fortzufahren."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on
@@ -625,7 +625,8 @@ msgstr ""
 "\t* Backups erstellen/wiederherstellen: Ermöglicht das Sichern und "
 "Wiederherstellen einiger NVDA-Einstellungen, wie Konfigurationen, Profile "
 "und Wörterbücher;\n"
-"\t* Add-ons Dokumentation: Erlaubt das Öffnen der Dokumentationsdatei."
+"\t* Add-ons Dokumentation: Erlaubt das Öffnen der Dokumentationsdatei.\n"
+"\t"
 
 #~ msgid "Utilidades para los complementos de NVDA"
 #~ msgstr "Dienstprogramme für NVDA-Add-ons"
